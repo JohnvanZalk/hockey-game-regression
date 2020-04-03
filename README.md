@@ -10,4 +10,4 @@ Some explanotry variables include:
 * **PP%:** If one team incurs a penalty, the other team get's a power-play (more players on ice). PP% is that percentage that a team scores on their power-play.
 
 ## Future Development
-No prediction is made with this model
+The model developed from this analysis is not currently being used to predict games due to the absence of an API with reliable documentation. Rather than try to retrieve data from an API, a future approach could involve scraping data from the NHL's website.
